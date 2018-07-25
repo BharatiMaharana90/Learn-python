@@ -5,4 +5,4 @@ Python basics
  `Hello world!! `
 
 ## Games
- `Battle ship game`
+ `Battle ship game: Guess where is the enemy battle ship.`
