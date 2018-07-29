@@ -25,8 +25,10 @@ result={
  'E':'are Enemies'
 }
 #print rem
-print "*** FLAME test: Analyze your future relationship ***"
-print "%s and %s %s \n\n"%(her,his,result[test[len(rem)-5]])
+if len(rem)%5==0:
+ print "%s and %s %s \n\n"%(her,his,result[test[5]])
+else:
+ print "%s and %s %s \n\n"%(her,his,result[test[(len(rem)-5)]])
 print 
 
 
