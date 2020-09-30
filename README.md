@@ -1,4 +1,4 @@
-# Learn-python
+# ascertain-python
 Python basics
 
 ## Hello
@@ -7,17 +7,7 @@ Python basics
 ## Games
  `Battle ship game: Guess where is the enemy battle ship.`
 
-
-
-
-
-
-
-
-
-
 ## Git commands
-
 * Create a new git repo on github.com  
 * Download the repo to local machine  
  `git clone https://github.com/BharatiMaharana90/Learn-python.git`  
@@ -40,7 +30,6 @@ Python basics
 * Now send to the master branch  
 
  ` git push origin master`  
-
 
 >Username for 'https://github.com': xxxx@gmail.com  
 >Password for 'https://xxxx@gmail.com@github.com':   
